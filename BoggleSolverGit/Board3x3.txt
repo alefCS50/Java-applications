@@ -1,0 +1,4 @@
+3 3
+G  G  M
+R  A  I
+A  T  N
